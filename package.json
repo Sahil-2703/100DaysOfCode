@@ -1,0 +1,23 @@
+{
+  "name": "100daysofcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "D01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sahil-2703/100DaysOfCode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sahil-2703/100DaysOfCode/issues"
+  },
+  "homepage": "https://github.com/Sahil-2703/100DaysOfCode#readme",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
