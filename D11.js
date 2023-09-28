@@ -22,5 +22,3 @@ const main = () => {
 }
 
 main();
-
-

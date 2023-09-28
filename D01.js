@@ -69,4 +69,3 @@ let ansh = '5'
 // console.log(typeof ansh)
 ansh = Number.parseInt(ansh) // convert string to number
 // console.log(typeof ansh)
-
