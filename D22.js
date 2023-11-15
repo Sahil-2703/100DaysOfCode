@@ -1,3 +1,4 @@
+
 const person = (name, age, gender, phone)=>{
     const personData = {
         name : name,
